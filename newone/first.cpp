@@ -4,4 +4,5 @@ int main()
 {
     cout<<" namaste sabhi ko ";
     cout<<"dhanyawad ";
+    cout
 }
